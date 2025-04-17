@@ -13,7 +13,7 @@ I'm a passionate full-stack developer who loves building clean, scalable, and us
 - Email: derisfirmansyah177@gmail.com
 
 ## 🧑‍💻 Languages & Tools I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derisfa&layout=compact&hide=html&langs_count=6&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&layout=compact&hide=html&langs_count=6&theme=tokyonight&count_private=true)
 
 ## 🔧 GitHub Stats
 ![Deris' GitHub stats](https://github-readme-stats.vercel.app/api?username=derispewss&show_icons=true&theme=tokyonight&count_private=true)
