@@ -12,12 +12,6 @@ I'm a passionate full-stack developer who loves building clean, scalable, and us
 - LinkedIn: [Deris Firmansyah](https://www.linkedin.com/in/deris-firmansyah)
 - Email: derisfirmansyah177@gmail.com
 
-## 🧑‍💻 Languages & Tools I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&layout=compact&hide=html&langs_count=6&theme=tokyonight&count_private=true)
-
-## 🔧 GitHub Stats
-![Deris' GitHub stats](https://github-readme-stats.vercel.app/api?username=derispewss&show_icons=true&theme=tokyonight&count_private=true)
-
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
