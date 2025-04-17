@@ -1,0 +1,17 @@
+name: Update README every minute
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  
+  workflow_dispatch:       
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run custom script or update README
+        run: echo "This is where you'd update your README or do something useful"
