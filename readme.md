@@ -2,8 +2,6 @@
 
 I’m a Full-Stack Web Developer with a strong interest in building clean, scalable, and efficient applications. My focus is on delivering high-quality user experiences while writing maintainable code. I’m currently working with technologies like **Next.js**, **Prisma**, and **Tailwind CSS**, and I’m always exploring new ways to improve both frontend and backend performance.
 
-I’m also passionate about computer science fundamentals, especially data structures, and enjoy creating tools like Telegram bots to automate everyday tasks.
-
 ## 🧰 Tech Stack
 
 - **Frontend:** Next.js, React, Tailwind CSS, Shadcn/UI
