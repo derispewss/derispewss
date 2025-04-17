@@ -16,7 +16,7 @@ I'm a passionate full-stack developer who loves building clean, scalable, and us
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derisfa&layout=compact&hide=html&langs_count=6&theme=tokyonight&count_private=true)
 
 ## 🔧 GitHub Stats
-![Deris' GitHub stats](https://github-readme-stats.vercel.app/api?username=derisfa&show_icons=true&theme=tokyonight&count_private=true)
+![Deris' GitHub stats](https://github-readme-stats.vercel.app/api?username=derispewss&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
