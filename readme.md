@@ -16,7 +16,6 @@ I’m also passionate about computer science fundamentals, especially data struc
 - Developing scalable web applications using the latest features in Next.js (App Router, Server Actions)
 - Improving backend architecture with Prisma and PostgreSQL
 - Building productivity tools and bots for automation
-- Practicing algorithm design and data structure implementation in C
 
 ## 📬 Get in Touch
 
