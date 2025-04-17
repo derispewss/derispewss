@@ -1,17 +1,16 @@
-name: Update README every minute
+name: Update README
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  
-  workflow_dispatch:       
+    - cron: '0 0 * * *'  # Setiap hari jam 00:00 UTC
+  workflow_dispatch:       # Bisa dijalankan manual juga
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Run custom script or update README
-        run: echo "This is where you'd update your README or do something useful"
+      - name: Generate stats
+        uses: anuraghazra/github-readme-stats@master
