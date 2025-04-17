@@ -8,13 +8,6 @@ I'm a passionate full-stack developer who loves building clean, scalable, and us
 - **Database:** PostgreSQL, MySQL
 - **Tools:** Git, GitHub, VS Code, Vercel, Railway
 
-## 📌 Current Projects
-
-
-## 🧠 I'm Learning
-- Advanced TypeScript
-
-
 ## 📫 Let's Connect
 - LinkedIn: [Deris Firmansyah](https://www.linkedin.com/in/deris-firmansyah)
 - Email: derisfirmansyah177@gmail.com
@@ -22,5 +15,3 @@ I'm a passionate full-stack developer who loves building clean, scalable, and us
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-Thanks for visiting my profile! Feel free to check out my pinned projects 👇
