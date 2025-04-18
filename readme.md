@@ -1,27 +1,15 @@
-# 👋 Hello, I'm Deris Firmansyah
+# 💫 About Me:
+👋 Hello, I'm Deris Firmansyah<br>I’m a Full-Stack Web Developer with a strong interest in building clean, scalable, and efficient applications. My focus is on delivering high-quality user experiences while writing maintainable code. I’m currently working with technologies like Next.js, Prisma, and Tailwind CSS, and I’m always exploring new ways to improve both frontend and backend performance.
 
-I’m a Full-Stack Web Developer with a strong interest in building clean, scalable, and efficient applications. My focus is on delivering high-quality user experiences while writing maintainable code. I’m currently working with technologies like **Next.js**, **Prisma**, and **Tailwind CSS**, and I’m always exploring new ways to improve both frontend and backend performance.
 
-## 🧰 Tech Stack
-
-- **Frontend:** Next.js, React, Tailwind CSS, Shadcn/UI
-- **Backend:** Node.js, Express.js, NestJS, Prisma, REST API
-- **Database:** PostgreSQL, MySQL
-- **Dev Tools & Platforms:** Git, GitHub, Vercel, Railway, VS Code
-
-## 📈 Current Focus
-
-- Developing scalable web applications using the latest features in Next.js (App Router, Server Actions)
-- Improving backend architecture with Prisma and PostgreSQL
-- Building productivity tools and bots for automation
-
-## 📬 Get in Touch
-
-- 🔗 [LinkedIn – Deris Firmansyah](https://www.linkedin.com/in/deris-firmansyah)
-- 📧 Email: derisfirmansyah177@gmail.com
+# 💻 Tech Stack:
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=derispewss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=derispewss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=derispewss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-Thanks for stopping by! Feel free to explore my repositories or reach out if you're interested in collaboration or just want to connect.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
