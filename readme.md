@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello, I'm Deris Firmansyah<br>I’m a Full-Stack Web Developer with a strong interest in building clean, scalable, and efficient applications. My focus is on delivering high-quality user experiences while writing maintainable code. I’m currently working with technologies like Next.js, Prisma, and Tailwind CSS, and I’m always exploring new ways to improve both frontend and backend performance.
+# 👋 Hello, I'm Deris Firmansyah
+I’m a Full-Stack Web Developer with a strong interest in building clean, scalable, and efficient applications. My focus is on delivering high-quality user experiences while writing maintainable code. I’m currently working with technologies like Next.js, Prisma, and Tailwind CSS, and I’m always exploring new ways to improve both frontend and backend performance.
 
 
 # 💻 Tech Stack:
