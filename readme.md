@@ -7,7 +7,4 @@ I’m a Full-Stack Web Developer with a strong interest in building clean, scala
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=derispewss&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
