@@ -1,12 +1,171 @@
-# 👋 Hello, I'm Deris Firmansyah
-I’m a Full-Stack Web Developer with a strong interest in building clean, scalable, and efficient applications. My focus is on delivering high-quality user experiences while writing maintainable code. I’m currently working with technologies like Next.js, Prisma, and Tailwind CSS, and I’m always exploring new ways to improve both frontend and backend performance.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Deris Firmansyah
 
+### Full-Stack Software Engineer from Indonesia 🇮🇩
 
-# 💻 Tech Stack:
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://camo.githubusercontent.com/29f331ff0b9cd5621d1233c541c575511c7ebb7cd6c09cb18c175c8bc729d14b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2d2532333030414444382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465)
+I build modern web applications with a strong focus on **performance**, **scalability**, and **developer experience**.
+
+Currently, I'm exploring distributed systems, backend architecture, and machine learning while continuously improving my frontend engineering skills.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 💼 Full-Stack Software Engineer
+* 🌱 Currently learning **Machine Learning & AI**
+* ⚡ Passionate about Backend Engineering, System Design, and Clean Architecture
+* 🎯 Focused on building scalable and maintainable applications
+* 💬 Ask me about **Next.js, NestJS, Express, Prisma, PostgreSQL, TypeScript, and Go**
+* 📚 Always learning new technologies
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,go,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,svelte,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,netlify,linux,git,github" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=derispewss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=derispewss&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=derispewss&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=derispewss&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Modern Web Applications
+
+Building scalable applications using modern web technologies.
+
+* Next.js
+* NestJS
+* Prisma ORM
+* PostgreSQL
+* Tailwind CSS
+
+### ⚙ Backend Systems
+
+Designing secure and maintainable REST APIs with authentication, authorization, and clean architecture.
+
+### 🤖 Machine Learning Journey
+
+Currently exploring NLP, Deep Learning, and AI-powered applications.
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Advanced Backend Architecture
+✔ System Design
+✔ Distributed Systems
+✔ Machine Learning
+✔ Deep Learning
+✔ DevOps
+```
+
+---
+
+# 💡 Philosophy
+
+> "Write code for humans first, computers second."
+
+I believe that great software isn't only about writing code—it's about solving problems, delivering value, and creating experiences that people enjoy using.
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="https://github.com/derispewss">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Tambahkan sosial media lainnya -->
+
+<!--
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+-->
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for visiting! ⭐
+
+If you like my projects, don't forget to leave a ⭐
+
+</p>
