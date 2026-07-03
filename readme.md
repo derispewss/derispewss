@@ -1,171 +1,63 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Deris Firmansyah
+# Hi there, I'm Deris Firmansyah 👋
 
-### Full-Stack Software Engineer from Indonesia 🇮🇩
+**Full-Stack Software Engineer** based in Indonesia.
 
-I build modern web applications with a strong focus on **performance**, **scalability**, and **developer experience**.
-
-Currently, I'm exploring distributed systems, backend architecture, and machine learning while continuously improving my frontend engineering skills.
+I enjoy building scalable web applications with clean architecture, modern technologies, and great developer experience. My primary focus is backend engineering, while continuously improving my frontend and machine learning skills.
 
 ---
 
-## 🚀 About Me
-
-* 💼 Full-Stack Software Engineer
-* 🌱 Currently learning **Machine Learning & AI**
-* ⚡ Passionate about Backend Engineering, System Design, and Clean Architecture
-* 🎯 Focused on building scalable and maintainable applications
-* 💬 Ask me about **Next.js, NestJS, Express, Prisma, PostgreSQL, TypeScript, and Go**
-* 📚 Always learning new technologies
-
----
-
-# 🛠 Tech Stack
-
-### Languages
+## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,go,cpp" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,svelte,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,netlify,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,svelte,nestjs,nodejs,express,go,prisma,postgres,docker,nginx,linux,git" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=derispewss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=derispewss&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derispewss&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=derispewss&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=derispewss&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=derispewss&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derispewss&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## Current Focus
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=derispewss&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🌐 Modern Web Applications
-
-Building scalable applications using modern web technologies.
-
-* Next.js
-* NestJS
-* Prisma ORM
-* PostgreSQL
-* Tailwind CSS
-
-### ⚙ Backend Systems
-
-Designing secure and maintainable REST APIs with authentication, authorization, and clean architecture.
-
-### 🤖 Machine Learning Journey
-
-Currently exploring NLP, Deep Learning, and AI-powered applications.
+* 🚀 Building scalable web applications
+* ⚙️ Backend Architecture & REST APIs
+* 📦 Prisma & PostgreSQL
+* 🤖 Machine Learning
+* ☁️ Cloud Deployment & DevOps
 
 ---
 
-# 📚 Currently Learning
-
-```text
-✔ Advanced Backend Architecture
-✔ System Design
-✔ Distributed Systems
-✔ Machine Learning
-✔ Deep Learning
-✔ DevOps
-```
-
----
-
-# 💡 Philosophy
-
-> "Write code for humans first, computers second."
-
-I believe that great software isn't only about writing code—it's about solving problems, delivering value, and creating experiences that people enjoy using.
-
----
-
-# 🤝 Let's Connect
+## Connect
 
 <p>
-
 <a href="https://github.com/derispewss">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-
-<!-- Tambahkan sosial media lainnya -->
-
 <!--
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://twitter.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://your-portfolio.com">
+Portfolio
 </a>
 -->
-
-</p>
-
----
-
-<p align="center">
-
-### Thanks for visiting! ⭐
-
-If you like my projects, don't forget to leave a ⭐
-
 </p>
