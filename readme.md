@@ -7,7 +7,6 @@
   <a href="https://github.com/derispewss">
     <img src="https://img.shields.io/badge/GitHub-derispewss-181717?style=flat&logo=github" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=derispewss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
